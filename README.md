@@ -134,7 +134,7 @@ factcheck-agent/
 ### Clone Repository
 
 ```bash
-git clone <your-github-repo-url>
+git clone https://github.com/mohang553/factcheck-agent
 cd factcheck-agent
 ```
 
